@@ -9,7 +9,8 @@ function SubHeading() {
       <div className="foregroundBox">
         <p>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ronnie is
+          a cutie!
         </p>
         <Button variant="outline-light">Resumé</Button>
       </div>
