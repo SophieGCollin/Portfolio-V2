@@ -1,0 +1,33 @@
+.heading {
+  color: #fefffd;
+  position: relative;
+  margin-bottom: 5rem;
+}
+.headingText {
+  font-weight: bold;
+}
+.svg {
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: -1;
+}
+
+h1 {
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 5%;
+  font-size: 100px;
+}
+p {
+  margin-bottom: 0;
+}
+.headingParagraph {
+  margin-left: 5%;
+  margin-top: 0;
+  font-size: 80px;
+}
+
+.punctuation {
+  color: #f3d34a;
+}
