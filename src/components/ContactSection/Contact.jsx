@@ -3,8 +3,16 @@ import "./Contact.css";
 
 function Contact() {
   return (
-    <div className="contacts">
-      <h2>Contact</h2>
+    <div className="contact">
+      <h2 className="contactHeading">
+        Contact <span className="punctuation">.</span>
+      </h2>
+      <div>
+        <p className="contactText">
+          sophiegocllin@gmail.com <br />
+          github.com/blahblah
+        </p>
+      </div>
     </div>
   );
 }

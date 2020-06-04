@@ -1,3 +1,23 @@
-.contacts {
+.contact {
+  text-align: right;
+  margin-right: 5%;
+  margin-left: 20%;
+  margin-top: 10%;
+}
+
+.contactHeading {
   color: #fefffd;
+  font-weight: bold;
+  text-decoration: underline;
+  text-decoration-color: #f3d34a;
+}
+.contactText {
+  color: #e4c0c4;
+  font-weight: 100;
+  font-size: 20px;
+  line-height: 50px;
+  letter-spacing: 2px;
+}
+.punctuation {
+  color: #f3d34a;
 }
