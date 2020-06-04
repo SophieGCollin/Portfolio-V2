@@ -1,3 +1,24 @@
 .skills {
+  text-align: left;
+  margin-right: 20%;
+  margin-left: 5%;
+  margin-top: 10%;
+}
+
+.skillsHeading {
   color: #fefffd;
+  font-weight: bold;
+  text-decoration: underline;
+  text-decoration-color: #f3d34a;
+}
+
+.skillsText {
+  color: #e4c0c4;
+  font-weight: 100;
+  font-size: 20px;
+  line-height: 50px;
+  letter-spacing: 2px;
+}
+.punctuation {
+  color: #f3d34a;
 }

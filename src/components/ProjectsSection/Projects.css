@@ -8,6 +8,8 @@
 .projectsHeading {
   color: #fefffd;
   font-weight: bold;
+  text-decoration: underline;
+  text-decoration-color: #f3d34a;
 }
 
 .projectsText {
